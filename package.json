@@ -1,0 +1,23 @@
+{
+  "name": "pwa_google_codelabs",
+  "version": "1.0.0",
+  "description": "Repo to follow the tutorial https://codelabs.developers.google.com/codelabs/your-first-pwapp",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maicongil/pwa_google_codelabs.git"
+  },
+  "author": "Maicon Gil",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maicongil/pwa_google_codelabs/issues"
+  },
+  "homepage": "https://github.com/maicongil/pwa_google_codelabs#readme",
+  "dependencies": {
+    "express": "^4.14.1"
+  }
+}
